@@ -6,6 +6,6 @@ minhas principais tecnologias: <br>
 - testes <br>
 
 links para o repositório de meus projetos de destaque <br>
-links para entrar em contato comigo
+links para entrar em contato comigo :D 
 
 
